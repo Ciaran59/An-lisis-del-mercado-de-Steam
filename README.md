@@ -23,7 +23,7 @@ Mientras que los juegos Indie mantienen precios bajos para competir en un mercad
 
 <img width="1298" height="548" alt="image" src="https://github.com/user-attachments/assets/0e217e66-10c7-41b1-a23d-7b3c070ca685" />
 
-## **¿El precio garantiza el éxito?** 
+# **¿El precio garantiza el éxito?** 
 ¿El precio garantiza el éxito?
 Tras analizar la correlación entre el precio y las recomendaciones, se obtuvo un coeficiente de 0.06.
 
@@ -32,7 +32,7 @@ La relación entre precio y calidad es practicamente nula, esto es visto en mayo
 
 <img width="1017" height="1011" alt="image" src="https://github.com/user-attachments/assets/97cfe43d-2bd8-4802-84d7-9ee3f1c5a974" />
 
-## Cómo ejecutar el notebook?
+# Cómo ejecutar el notebook?
 Clona el repositorio.
 
 Asegúrate de tener instalado pandas, seaborn y matplotlib y el dataset, el cual esta incluido en el repositorio, o bien puedes descargarlo directamente de https://www.kaggle.com/datasets/jypenpen54534/steam-games-dataset-2021-2025-65k
