@@ -32,7 +32,7 @@ La relación entre precio y calidad es practicamente nula, esto es visto en mayo
 ## Cómo ejecutar el notebook?
 Clona el repositorio.
 
-Asegúrate de tener instalado pandas, seaborn y matplotlib.
+Asegúrate de tener instalado pandas, seaborn y matplotlib y el dataset, el cual esta incluido en el repositorio, o bien puedes descargarlo directamente de https://www.kaggle.com/datasets/jypenpen54534/steam-games-dataset-2021-2025-65k
 
 Ejecuta el archivo analisis_steam.ipynb.
 
